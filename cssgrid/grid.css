@@ -1,7 +1,11 @@
 .parent{
     height: 400px;
     width: 100%;
+<<<<<<< HEAD
     background-color:red;
+=======
+    background-color: rgb(0, 0, 0);
+>>>>>>> 4562edb6d28e1a0840a839eaf95e99c1fa315c71
     display: grid;
     /* grid-template-columns:  200px auto 200px; */
     gap: 10px;
