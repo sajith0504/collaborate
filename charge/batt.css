@@ -1,0 +1,18 @@
+.battery-top{
+    width: 30px;
+    height: 10px;
+    background: black;
+    margin: 0 auto;
+    border: 3px solid silver;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+.battery-content{
+    width: 150px;
+    height: 250px;
+    background: black;
+    position: relative;
+    margin: 0 auto;
+    border: 3px solid silver;
+    border-radius: 18px;
+}
